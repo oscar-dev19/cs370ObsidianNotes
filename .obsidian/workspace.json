@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "24561a2482e4867f",
+        "id": "23cdc47d9fdb9ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "89069c898a0c48b9",
+            "id": "0dd16d61496db2b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/IEEE Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "IEEE Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -160,13 +156,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "ad65ff1b1abddf8d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
